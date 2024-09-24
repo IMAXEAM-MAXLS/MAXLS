@@ -1,0 +1,1 @@
+- **Download issue with records based on Maximo relationships**: Fixed an issue that prevented proper download of records when using certain Maximo relationships.
