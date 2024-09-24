@@ -1,3 +1,5 @@
+# Release 5.0.22
+
 - **Download issue with records based on Maximo relationships**: 
   This release addresses a critical issue where records linked via specific Maximo relationships could not be properly downloaded. The problem caused incomplete or missing data during export or download processes when records were associated with one another through Maximo's relationship configurations.
 
