@@ -6,7 +6,7 @@ Data Management Tool For Maximo
 
 This repository contains the release notes for the following versions. Click on a release name to see its detailed notes.
 
-- [5.0.22](./release-5.0.22.md)
-- [5.0.21](./release-5.0.21.md)
-- [5.0.20](./release-5.0.20.md)
-- [5.0.19](./release-5.0.19.md)
+- [5.0.22](./release-5.0.22)
+- [5.0.21](./release-5.0.21)
+- [5.0.20](./release-5.0.20)
+- [5.0.19](./release-5.0.19)
